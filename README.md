@@ -21,4 +21,12 @@ git config --global user.password githubpassword
 
 =================================================
 
+<<<<<<< HEAD
 master branch
+=======
+master branch
+
+csc branch
+
+new change
+>>>>>>> csc
