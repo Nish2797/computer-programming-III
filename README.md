@@ -21,22 +21,20 @@ git config --global user.password githubpassword
 
 =================================================
 
-<<<<<<< HEAD
+
 master branch
-=======
+
 master branch
 
 csc branch
 
 new change
-<<<<<<< HEAD
->>>>>>> csc
 
-new
-=======
+
+
 
 changes made by csc branch
->>>>>>> csc
+
 
 
 changes made by phy
